@@ -13,7 +13,7 @@ In the second part of the project, we train a UNet model to perform semantic seg
 
 ## Contact
 
-If you have any questions or comments about this project, please contact [Your Name] at [Your Email Address].
+If you have any questions or comments about this project, please contact with [me](https://www.linkedin.com/in/xavigbvaleri/)
 
 ## Reference
 This repository does not include all the documents needed to implement the project.
